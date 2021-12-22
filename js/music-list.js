@@ -11,38 +11,38 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
+    name: "Aashiqui Aa Gayi",
+    artist: "Arijit singh",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
+    name: "Dance Meri Rani",
+    artist: "Guru Randhawa",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
+    name: "Mohabbat Hai",
+    artist: "Jeet Ganguli",
     img: "music-3",
     src: "music-3"
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
+    name: "Soch Liya",
+    artist: "Ariijit singh",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
+    name: "Uddjaa parindey",
+    artist: "Jubin Nautiyal",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
+    name: "Gaddi Neevi",
+    artist: "Singhsta",
     img: "music-6",
     src: "music-6"
   },
